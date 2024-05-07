@@ -1,0 +1,1 @@
+Supplementary electronic material Reference: Y. Li, L. Shao, Using an epidemiological model to explore the interplay between sharing and advertising in viral videos: ParaEst.jl and  ParaEst.jl with Julia.
